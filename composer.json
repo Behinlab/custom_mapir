@@ -17,7 +17,7 @@
     "extra": {
     "laravel": {
         "providers": [
-            "VTeam\\Mapir\\MapirLaravelServiceProvider"
+            "Shiveh\\Mapir\\MapirLaravelServiceProvider"
         ],
         "aliases": {
             "Mapir": "\\VTeam\\Mapir\\MapirLaravelFacade"
