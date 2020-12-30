@@ -8,7 +8,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "VTeam\\Mapir\\": "src/"
+            "Shiveh\\Mapir\\": "src/"
         }
     },
     "extra": {
@@ -17,7 +17,7 @@
             "Shiveh\\Mapir\\MapirLaravelServiceProvider"
         ],
         "aliases": {
-            "Mapir": "\\VTeam\\Mapir\\MapirLaravelFacade"
+            "Mapir": "\\Shiveh\\Mapir\\MapirLaravelFacade"
         }
     }
 }
