@@ -1,6 +1,6 @@
 <?php
 
-namespace Shiveh\Mapir;
+namespace Vteam\Mapir;
 
 
 use Illuminate\Support\ServiceProvider;
