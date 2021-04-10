@@ -3,7 +3,7 @@
     "description": "Custom Map.ir api",
     "authors": [
         {
-            "name": "Behinlabw"
+            "name": "Behinlab"
         }
     ],
     "autoload": {
@@ -12,7 +12,7 @@
         }
     },
     "require": {
-        "guzzlehttp/guzzle": ">=6.2"
+        "guzzlehttp/guzzle": ">=5.8"
     },
     "extra": {
     "laravel": {
