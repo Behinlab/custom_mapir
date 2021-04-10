@@ -1,6 +1,6 @@
 <?php
 
-namespace Behinlab\Mapir;
+namespace Shiveh\Mapir;
 
 
 use Illuminate\Support\ServiceProvider;
