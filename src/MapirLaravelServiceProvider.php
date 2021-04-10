@@ -1,6 +1,6 @@
 <?php
 
-namespace Vteam\Mapir;
+namespace Behinlab\Mapir;
 
 
 use Illuminate\Support\ServiceProvider;
