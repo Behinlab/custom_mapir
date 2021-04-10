@@ -8,7 +8,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Behinlab\\Mapir\\": "src/"
+            "Shiveh\\Mapir\\": "src/"
         }
     },
     "require": {
@@ -17,10 +17,10 @@
     "extra": {
     "laravel": {
         "providers": [
-            "Behinlab\\Mapir\\MapirLaravelServiceProvider"
+            "Shiveh\\Mapir\\MapirLaravelServiceProvider"
         ],
         "aliases": {
-            "Mapir": "\\Behinlab\\Mapir\\MapirLaravelFacade"
+            "Mapir": "\\Shiveh\\Mapir\\MapirLaravelFacade"
         }
     }
 }
